@@ -1,5 +1,5 @@
 <!-- Intro -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=12,20,24&text=Hey!%20I'm%20Simon&fontSize=60&fontAlign=50&fontAlignY=45" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&customColorList=12,20,24&text=Hey!%20I'm%20Simon&fontSize=50&fontAlign=50&fontAlignY=45" width="100%" />
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer+%F0%9F%92%BB;Senior+CSE+Student+%40+Sejong+University+%F0%9F%8E%93;NestJS+%C2%B7+GraphQL+%C2%B7+Next.js+%C2%B7+React+%E2%9A%A1;Building+with+LLMs+%26+Computer+Vision+%F0%9F%A4%96" alt="Typing SVG" /></a>
@@ -9,11 +9,11 @@
 
 <br>
 
-### 🧑‍💻 Seoul-based full-stack developer
-### 🎓 Senior CSE student at Sejong University
-### 🛠️ Building web apps end to end: API, database, frontend and deploy
-### 🤖 Exploring AI lately: LLMs and computer vision
-### 🌱 Into clean code, good UX and shipping real products
+#### 🧑‍💻 Seoul-based full-stack developer
+#### 🎓 Senior CSE student at Sejong University
+#### 🛠️ Building web apps end to end: API, database, frontend and deploy
+#### 🤖 Exploring AI lately: LLMs and computer vision
+#### 🌱 Into clean code, good UX and shipping real products
 
 <br clear="right">
 
